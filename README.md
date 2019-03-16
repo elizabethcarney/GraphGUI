@@ -1,7 +1,7 @@
 # GraphGUI
 A GUI illustrating graph behavior with the ability to select, unselect, add, delete, and edit nodes and edges. This was my final project for Data Structures (CSC 212) in May 2018.
 
-** Features: **
+**Features:**
   - Nodes are highlighted (change border color) when mouse hovers over them
   - Recognizes when an edge is clicked on
   - Nodes can be selected and unselected (change border color)
